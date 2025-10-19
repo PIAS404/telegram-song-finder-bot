@@ -1,0 +1,6 @@
+song-finder-bot/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── .env.example
